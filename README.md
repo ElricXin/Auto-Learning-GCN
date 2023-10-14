@@ -134,7 +134,7 @@ The pre-processed UAV data can be referred [here](https://drive.google.com/drive
 ~~~
 
 ### Pretrained model
-pre-trained-model refer to the [https://drive.google.com/file/d/15Ahneq5_IgurficrYb3PiiLeEFyS8lBQ/view?usp=share_link](https://drive.google.com/file/d/1qlnbQqxky53BO9hrkxOm6ALde74Qb1xE/view?usp=sharing)
+We are diligently curating relevant data and models, and our pre-trained model will soon be made public. If you are interested, please stay tuned for our upcoming work.
     
 ## Acknowledgements
 This repo is based on [CTR-GCN](https://github.com/Uason-Chen/CTR-GCN). The data processing is borrowed from [SGN](https://github.com/microsoft/SGN) and [HCN](https://github.com/huguyuehuhu/HCN-pytorch).
