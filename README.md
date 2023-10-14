@@ -93,7 +93,7 @@ Put downloaded data into the following directory structure:
  # Transform the skeleton to the center of the first frame
  python seq_transformation.py
 ~~~
-The pre-processed UAV data can be referred [here](https://drive.google.com/drive/my-drive) and details can be found [skeleton-MixFormer](https://github.com/ElricXin/Skeleton-MixFormer)
+The pre-processed UAV data can be referred [here](https://drive.google.com/drive/my-drive) and details can be found [Skeleton-MixFormer](https://github.com/ElricXin/Skeleton-MixFormer)
 
     
 # Training & Testing
